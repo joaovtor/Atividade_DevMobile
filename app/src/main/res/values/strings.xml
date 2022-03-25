@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atv2Mobile</string>
+    <string name="contador">Contador</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="idade_em_minutos">Idade em minutos</string>
+
+</resources>
